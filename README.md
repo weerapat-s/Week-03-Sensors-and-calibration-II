@@ -14,3 +14,7 @@
 ## ใบงาน
 
 ### [Week-03-Lab-sheet-03-LDR-and-calibration](Week-03-Lab-sheet-03-LDR-and-calibration.md)
+
+## ชุดงานส่ง
+
+ไฟล์โปรแกรม ตาราง Calibration และรายงานอยู่ใน [submission](submission/README.md)
